@@ -1,0 +1,16 @@
+.DS_Store
+._.DS_Store
+*.iml
+*~
+\#*\#
+project/project
+target
+.AppleDouble
+.idea
+.rest_*
+.history
+.cache
+.classpath
+.project
+.settings
+/bin
